@@ -1,1 +1,1 @@
-# gdcs-web-dev-workshop
+# gdsc-web-dev-workshop
